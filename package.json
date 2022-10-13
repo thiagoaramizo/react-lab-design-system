@@ -1,7 +1,7 @@
 {
-  "name": "ignite-ds",
+  "name": "react-lab-design-system",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -39,7 +39,7 @@
     "typescript": "^4.6.4",
     "vite": "^3.1.0"
   },
-  "description": "Design System criado no evento Ignite",
+  "description": "Design system do React Lab",
   "main": "index.js",
   "author": "Thiago Aramizo",
   "license": "ISC"
